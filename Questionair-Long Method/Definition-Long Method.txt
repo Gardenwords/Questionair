@@ -1,0 +1,3 @@
+Long Method
+
+Definition：通常包含多种功能， 体积庞大且难以理解
